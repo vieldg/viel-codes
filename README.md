@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Studio Ghibli Pixel Sticker by Kye Cheng for iOS   Android _ GIPHY](https://github.com/viel-codes/viel-codes/assets/95759951/47b60a8b-612e-4bdc-b858-22ba9bd3b870)
 
 <!--
 **viel-codes/viel-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-![Uploading Studio Ghibli Pixel Sticker by Kye Cheng for iOS & Android _ GIPHY.gif…]()
 
 -->
