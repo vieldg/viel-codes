@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Viel 👋
 <img src="https://github.com/viel-codes/viel-codes/assets/95759951/47b60a8b-612e-4bdc-b858-22ba9bd3b870" alt="GIF" width="200" />
 
 <!--
